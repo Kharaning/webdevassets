@@ -1,8 +1,8 @@
 # Web dev resources
 Usefull resources for learning/developing web applications
 ## Javascript 
- https://javascript.info/ - from basics to advanced, explained in details
- [https://github.com/getify/You-Dont-Know-JS/tree/1st-ed] - You Dont Know JS (Book)
+ https://javascript.info/ - from basics to advanced, explained in details  
+ [https://github.com/getify/You-Dont-Know-JS/tree/1st-ed] - You Dont Know JS (Book)  
  [https://mega.nz/folder/t45ngQJJ#OYq7XPvwf6mD590NgS_l1w] - Jonas Schmedtmann JS course
  [https://overapi.com/] - Cheat Sheet. JS,Python,Ruby & more
  [https://codetogo.io/] - JS & React Code Snippets
